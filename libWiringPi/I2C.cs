@@ -4,6 +4,7 @@ namespace libWiringPi
 {
     public class I2C
     {
+        // Did a very similar chang ein master
         const string I2C_LIBRARY = "libwiringPiI2C.so";
 
         #region read
