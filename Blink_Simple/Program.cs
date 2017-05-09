@@ -6,7 +6,7 @@ namespace Blink_Simple
 {
     class Program
     {
-        const int delay = 150;
+        const int delay = 250;
         const int inPin = 1;         // switch  GPIO18 for pi rev2
         const int pinLed = 0;        // LED     GPIO17 for pi rev2
 
