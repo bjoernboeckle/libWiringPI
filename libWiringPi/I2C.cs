@@ -4,7 +4,7 @@ namespace libWiringPi
 {
     public class I2C
     {
-        // Did a very similar change in master
+        // Removed locally
         //Changes done to new branch
 
         const string I2C_LIBRARY = "libwiringPiI2C.so";
