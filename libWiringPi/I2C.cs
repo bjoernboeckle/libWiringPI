@@ -6,7 +6,7 @@ namespace libWiringPi
     {
         // Another test for pull requests
 
-        const string I2C_LIBRARY = "libwiringPiI2C.so";
+        const string I2C_LIBRARY = "libwiringPiI2C.so"; // Comment in main with conflict
 
         #region read
 
