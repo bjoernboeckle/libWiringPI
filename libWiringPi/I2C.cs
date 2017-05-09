@@ -4,6 +4,8 @@ namespace libWiringPi
 {
     public class I2C
     {
+        //Changes done to new branch
+
         const string I2C_LIBRARY = "libwiringPiI2C.so";
 
         #region read
