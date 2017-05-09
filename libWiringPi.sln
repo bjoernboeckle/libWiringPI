@@ -37,22 +37,4 @@ Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-	GlobalSection(TeamFoundationVersionControl) = preSolution
-		SccNumberOfProjects = 5
-		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
-		SccTeamFoundationServer = https://boeckle.visualstudio.com/
-		SccLocalPath0 = .
-		SccProjectUniqueName1 = Blink_Interrupt\\Blink_Interrupt.csproj
-		SccProjectName1 = Blink_Interrupt
-		SccLocalPath1 = Blink_Interrupt
-		SccProjectUniqueName2 = Blink_Simple\\Blink_Simple.csproj
-		SccProjectName2 = Blink_Simple
-		SccLocalPath2 = Blink_Simple
-		SccProjectUniqueName3 = Forms_Example\\Forms_Example.csproj
-		SccProjectName3 = Forms_Example
-		SccLocalPath3 = Forms_Example
-		SccProjectUniqueName4 = libWiringPi\\libWiringPi.csproj
-		SccProjectName4 = libWiringPi
-		SccLocalPath4 = libWiringPi
-	EndGlobalSection
 EndGlobal
