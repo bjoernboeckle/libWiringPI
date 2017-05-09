@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forms_Example", "Forms_Example\Forms_Example.csproj", "{0B2EF8C6-B16A-4ED9-9AF1-8A0D84BD31AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "libWiringPi", "libWiringPi\libWiringPi.csproj", "{3885BB7D-9C25-45BF-A238-960DF312045E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blink_Interrupt", "Blink_Interrupt\Blink_Interrupt.csproj", "{51792876-6315-4E21-9CA0-CC8D461E9861}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blink_Simple", "Blink_Simple\Blink_Simple.csproj", "{427EBB00-C515-42F2-8CB4-D2AC8EB1150A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B2EF8C6-B16A-4ED9-9AF1-8A0D84BD31AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B2EF8C6-B16A-4ED9-9AF1-8A0D84BD31AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B2EF8C6-B16A-4ED9-9AF1-8A0D84BD31AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B2EF8C6-B16A-4ED9-9AF1-8A0D84BD31AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3885BB7D-9C25-45BF-A238-960DF312045E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3885BB7D-9C25-45BF-A238-960DF312045E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3885BB7D-9C25-45BF-A238-960DF312045E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3885BB7D-9C25-45BF-A238-960DF312045E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51792876-6315-4E21-9CA0-CC8D461E9861}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51792876-6315-4E21-9CA0-CC8D461E9861}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51792876-6315-4E21-9CA0-CC8D461E9861}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51792876-6315-4E21-9CA0-CC8D461E9861}.Release|Any CPU.Build.0 = Release|Any CPU
+		{427EBB00-C515-42F2-8CB4-D2AC8EB1150A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{427EBB00-C515-42F2-8CB4-D2AC8EB1150A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{427EBB00-C515-42F2-8CB4-D2AC8EB1150A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{427EBB00-C515-42F2-8CB4-D2AC8EB1150A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://boeckle.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Blink_Interrupt\\Blink_Interrupt.csproj
+		SccProjectName1 = Blink_Interrupt
+		SccLocalPath1 = Blink_Interrupt
+		SccProjectUniqueName2 = Blink_Simple\\Blink_Simple.csproj
+		SccProjectName2 = Blink_Simple
+		SccLocalPath2 = Blink_Simple
+		SccProjectUniqueName3 = Forms_Example\\Forms_Example.csproj
+		SccProjectName3 = Forms_Example
+		SccLocalPath3 = Forms_Example
+		SccProjectUniqueName4 = libWiringPi\\libWiringPi.csproj
+		SccProjectName4 = libWiringPi
+		SccLocalPath4 = libWiringPi
+	EndGlobalSection
+EndGlobal
