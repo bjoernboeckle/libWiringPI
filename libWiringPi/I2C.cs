@@ -4,7 +4,7 @@ namespace libWiringPi
 {
     public class I2C
     {
-        // My changes on the second feature testing pull request
+        // This time really working on the feature branch
 
         const string I2C_LIBRARY = "libwiringPiI2C.so";
 
