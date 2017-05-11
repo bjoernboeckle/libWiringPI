@@ -6,8 +6,7 @@ namespace libWiringPi
     {
         // Another test for pull requests
 
-        // An additional change after pull request was created -
-        // Now also a change while pull request was not yet handled
+        // A change for first commit
 
         const string I2C_LIBRARY = "libwiringPiI2C.so"; // Comment in second feature with conflict
 
